@@ -2,7 +2,7 @@
   {
     "name": "Titanic Classification Model",
     "desc": "The Titanic Classification project uses machine learning's Logistic regression algorithm to predict a person's likelihood of survival in the event of a sinking.",
-    "image": "titan",
+    "image": "Portfolio\\assets\\images\\projects\\titan.png",
     "category": "mern",
     "links": {
       "view": "",
@@ -12,7 +12,7 @@
   {
     "name": "Stock Price Prediction Model",
     "desc": "Developed a machine learning model for stock prediction using advanced algorithms and historical market data to forecast future stock prices.",
-    "image": "st",
+    "image": "Portfolio\\assets\\images\\projects\\st.png",
     "category": "mern",
     "links": {
       "view": "",
@@ -22,7 +22,7 @@
   {
     "name": "URL Shortner",
     "desc": " Crafted a URL shortener using Python Flask, providing concise and user-friendly shortened links for efficient web navigation.",
-    "image": "ur",
+    "image": "Portfolio\\assets\\images\\projects\\ur.png",
     "category": "lamp",
     "links": {
       "view": "",
@@ -32,7 +32,7 @@
   {
     "name": "Hospital Management System",
     "desc": "Implemented a comprehensive hospital management system using Java and MySQL, streamlining administrative tasks and enhancing patient care through efficient data management",
-    "image": "hm",
+    "image": "Portfolio\\assets\\images\\projects\\hm.png",
     "category": "basicweb",
     "links": {
       "view": "",
@@ -44,7 +44,7 @@
   {
     "name": "Library Management System",
     "desc": "Designed a library management system using SQL, facilitating organized cataloging, tracking, and management of library resources for seamless user experience",
-    "image": "lm",
+    "image": "Portfolio\\assets\\images\\projects\\lm.png",
     "category": "android",
     "links": {
       "view": "",
