@@ -1,7 +1,7 @@
 [
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "C#",
+        "icon": "https://cdn.icon-icons.com/icons2/2415/PNG/64/csharp_original_logo_icon_146578.png"
     },
     {
         "name": "HTML5",
@@ -16,8 +16,8 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "C",
+        "icon": "http://sharptutorial.com/wp-content/uploads/2018/11/icons8-c-programming-1.png"
     },
     {
         "name": "Python",
@@ -36,15 +36,19 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+        "name": "Azure",
+        "icon": "https://webmobtechcdn.nyc3.cdn.digitaloceanspaces.com/wmt_v4/2021/07/Microsoft-Azure.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "Power BI",
+        "icon": "https://d2.alternativeto.net/dist/icons/power-bi-for-office-365_180052.png?width=64&height=64&mode=crop&upscale=false"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "IBM Cognos",
+        "icon": "https://1directionglobal.com/wp-content/uploads/2020/09/Logo-IBM-Cognos-Analytics.png"
     }
 ]
