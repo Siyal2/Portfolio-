@@ -2,7 +2,7 @@
   {
     "name": "Titanic Classification Model",
     "desc": "The Titanic Classification project uses machine learning's Logistic regression algorithm to predict a person's likelihood of survival in the event of a sinking.",
-    "image": "./assets/images/projects/titan",
+    "image": "./assets/images/projects/titan.png",
     "category": "mern",
     "links": {
       "view": "",
