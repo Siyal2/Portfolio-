@@ -12,7 +12,7 @@
   {
     "name": "Stock Price Prediction Model",
     "desc": "Developed a machine learning model for stock prediction using advanced algorithms and historical market data to forecast future stock prices.",
-    "image": "./assets/images/projects/st.png",
+    "image": "st",
     "category": "mern",
     "links": {
       "view": "",
