@@ -2,7 +2,7 @@
   {
     "name": "Titanic Classification Model",
     "desc": "The Titanic Classification project uses machine learning's Logistic regression algorithm to predict a person's likelihood of survival in the event of a sinking.",
-    "image": "./assets/images/projects/titan.png",
+    "image": "titan",
     "category": "mern",
     "links": {
       "view": "",
@@ -12,7 +12,7 @@
   {
     "name": "Stock Price Prediction Model",
     "desc": "Developed a machine learning model for stock prediction using advanced algorithms and historical market data to forecast future stock prices.",
-    "image": "./assets/images/projects/st.png",
+    "image": "st",
     "category": "mern",
     "links": {
       "view": "",
@@ -20,9 +20,19 @@
     }
   },
   {
+    "name": "AI Voice Assistant",
+    "desc": "Mihir A.I, a Python-based voice assistant that leverages Google Cloud Speech-to-Text for precise command interpretation and OpenAI's GPT-3 for intelligent responses.",
+    "image": "Mihir_Bot",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/AdityaSrivastavDS/AI-Voice-Assistant"
+    }
+  },
+  {
     "name": "URL Shortner",
     "desc": " Crafted a URL shortener using Python Flask, providing concise and user-friendly shortened links for efficient web navigation.",
-    "image": "./assets/images/projects/ur.png",
+    "image": "ur",
     "category": "lamp",
     "links": {
       "view": "",
@@ -32,7 +42,7 @@
   {
     "name": "Hospital Management System",
     "desc": "Implemented a comprehensive hospital management system using Java and MySQL, streamlining administrative tasks and enhancing patient care through efficient data management",
-    "image": "./assets/images/projects/hm.png",
+    "image": "hm",
     "category": "basicweb",
     "links": {
       "view": "",
@@ -44,7 +54,7 @@
   {
     "name": "Library Management System",
     "desc": "Designed a library management system using SQL, facilitating organized cataloging, tracking, and management of library resources for seamless user experience",
-    "image": "./assets/images/projects/lm.png",
+    "image": "lm",
     "category": "android",
     "links": {
       "view": "",

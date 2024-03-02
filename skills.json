@@ -41,7 +41,15 @@
     },
     {
         "name": "Power BI",
-        "icon": "https://d2.alternativeto.net/dist/icons/power-bi-for-office-365_180052.png?width=64&height=64&mode=crop&upscale=false"
+        "icon": "https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-BI-LOGO-70x70.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://th.bing.com/th/id/OIP.n6mtoLHRrbCfxbQxfFiQxwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/72/Excel-icon.png"
     },
     {
         "name": "GitHub",
